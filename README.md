@@ -6,7 +6,7 @@ A series of MATLAB scripts that can generate growth curves and doubling times fr
 ## Usage
 1. Download and install [MATLAB](https://www.mathworks.com/downloads/web_downloads/?s_tid=srctitle).  
 
-2. Download this repository and open the resulting folder in MATLAB by clicking the green button above, or [here](https://github.com/UnexceptedSpectic/ScanLag/archive/master.zip), and extract the zip file contents.  
+2. Download this repository by clicking the green button above, or [here](https://github.com/UnexceptedSpectic/ScanLag/archive/master.zip), and extract its contents.  
 
 3. Open the extracted folder in MATLAB.  
 
