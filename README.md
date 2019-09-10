@@ -10,6 +10,6 @@ A series of MATLAB scripts that can generate growth curves and doubling times fr
 
 3. Open the extracted folder in MATLAB.  
 
-4. Follow the official manual found [here](https://github.com/UnexceptedSpectic/ScanLag/blob/master/usage_manual.pdf) to use the functions found in the downloaded folder in order to process and analyze the bacterial scan images. Functions are used by executing commands in the MATLAB console.  
+4. Follow the official manual found [here](https://github.com/UnexceptedSpectic/ScanLag/blob/master/usage_manual.pdf) to use the functions found in the downloaded folder in order to process and analyze the bacterial scan images. Functions are used by executing commands in the MATLAB console. Perhaps practice with [these](https://drive.google.com/open?id=1pDpm-ISpFt-gRuKPa91rwoKfEHzp3vaa) sample images.  
 
 5. You may execute [this](https://github.com/UnexceptedSpectic/ScanLag/blob/master/sample_procedure.pdf) sample sequence of commands as a guide to assess the statistical significance in any differences across bacterial doubling times.  
